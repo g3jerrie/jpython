@@ -29,4 +29,10 @@ print("The new list is: ", lst3)
 lst4 = [x for x in lst2 if(x>30)]
 print(lst4)
 
-
+lst4.append(100)
+print(lst4)
+lst4.insert(2,60)
+print(lst4)
+lst4.reverse()
+print(lst4)
+print(len(lst4))

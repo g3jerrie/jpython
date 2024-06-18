@@ -30,7 +30,7 @@ if(x>y):
         x=x+10
         print("Enhanced x: ",x)
 else:
-    print(y," is greater")
+    print(y," is greater between x & y")
 
 ##pass
 
